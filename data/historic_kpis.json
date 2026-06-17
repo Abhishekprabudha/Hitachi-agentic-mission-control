@@ -1,66 +1,210 @@
 [
   {
-    "week": "W-8",
-    "cost_index": 100,
-    "k8s_health": 74,
-    "mttr": 64,
+    "week": "W-24",
+    "cost_index": 101,
+    "k8s_health": 69,
+    "mttr": 78,
+    "iot_quality": 73,
+    "dr_score": 64,
+    "governance": 55
+  },
+  {
+    "week": "W-23",
+    "cost_index": 103,
+    "k8s_health": 71,
+    "mttr": 74,
+    "iot_quality": 74,
+    "dr_score": 66,
+    "governance": 57
+  },
+  {
+    "week": "W-22",
+    "cost_index": 105,
+    "k8s_health": 71,
+    "mttr": 72,
+    "iot_quality": 75,
+    "dr_score": 66,
+    "governance": 58
+  },
+  {
+    "week": "W-21",
+    "cost_index": 107,
+    "k8s_health": 71,
+    "mttr": 72,
+    "iot_quality": 75,
+    "dr_score": 67,
+    "governance": 60
+  },
+  {
+    "week": "W-20",
+    "cost_index": 107,
+    "k8s_health": 73,
+    "mttr": 69,
+    "iot_quality": 76,
+    "dr_score": 68,
+    "governance": 60
+  },
+  {
+    "week": "W-19",
+    "cost_index": 107,
+    "k8s_health": 75,
+    "mttr": 66,
     "iot_quality": 77,
     "dr_score": 70,
     "governance": 62
   },
   {
-    "week": "W-7",
-    "cost_index": 104,
+    "week": "W-18",
+    "cost_index": 107,
+    "k8s_health": 74,
+    "mttr": 65,
+    "iot_quality": 78,
+    "dr_score": 70,
+    "governance": 63
+  },
+  {
+    "week": "W-17",
+    "cost_index": 109,
     "k8s_health": 76,
-    "mttr": 59,
+    "mttr": 64,
     "iot_quality": 78,
     "dr_score": 71,
-    "governance": 64
+    "governance": 65
+  },
+  {
+    "week": "W-16",
+    "cost_index": 109,
+    "k8s_health": 75,
+    "mttr": 64,
+    "iot_quality": 77,
+    "dr_score": 70,
+    "governance": 63
+  },
+  {
+    "week": "W-15",
+    "cost_index": 111,
+    "k8s_health": 76,
+    "mttr": 61,
+    "iot_quality": 78,
+    "dr_score": 72,
+    "governance": 65
+  },
+  {
+    "week": "W-14",
+    "cost_index": 114,
+    "k8s_health": 77,
+    "mttr": 58,
+    "iot_quality": 79,
+    "dr_score": 72,
+    "governance": 66
+  },
+  {
+    "week": "W-13",
+    "cost_index": 116,
+    "k8s_health": 77,
+    "mttr": 58,
+    "iot_quality": 79,
+    "dr_score": 74,
+    "governance": 69
+  },
+  {
+    "week": "W-12",
+    "cost_index": 116,
+    "k8s_health": 79,
+    "mttr": 56,
+    "iot_quality": 80,
+    "dr_score": 74,
+    "governance": 69
+  },
+  {
+    "week": "W-11",
+    "cost_index": 116,
+    "k8s_health": 80,
+    "mttr": 52,
+    "iot_quality": 81,
+    "dr_score": 76,
+    "governance": 71
+  },
+  {
+    "week": "W-10",
+    "cost_index": 116,
+    "k8s_health": 80,
+    "mttr": 51,
+    "iot_quality": 82,
+    "dr_score": 76,
+    "governance": 72
+  },
+  {
+    "week": "W-9",
+    "cost_index": 118,
+    "k8s_health": 82,
+    "mttr": 50,
+    "iot_quality": 82,
+    "dr_score": 78,
+    "governance": 74
+  },
+  {
+    "week": "W-8",
+    "cost_index": 118,
+    "k8s_health": 81,
+    "mttr": 51,
+    "iot_quality": 81,
+    "dr_score": 76,
+    "governance": 72
+  },
+  {
+    "week": "W-7",
+    "cost_index": 120,
+    "k8s_health": 82,
+    "mttr": 47,
+    "iot_quality": 82,
+    "dr_score": 78,
+    "governance": 74
   },
   {
     "week": "W-6",
-    "cost_index": 107,
-    "k8s_health": 78,
-    "mttr": 54,
-    "iot_quality": 80,
-    "dr_score": 72,
-    "governance": 67
+    "cost_index": 122,
+    "k8s_health": 83,
+    "mttr": 44,
+    "iot_quality": 83,
+    "dr_score": 78,
+    "governance": 75
   },
   {
     "week": "W-5",
-    "cost_index": 111,
-    "k8s_health": 79,
-    "mttr": 49,
-    "iot_quality": 79,
-    "dr_score": 74,
-    "governance": 70
+    "cost_index": 124,
+    "k8s_health": 83,
+    "mttr": 45,
+    "iot_quality": 83,
+    "dr_score": 80,
+    "governance": 77
   },
   {
     "week": "W-4",
-    "cost_index": 116,
-    "k8s_health": 81,
-    "mttr": 45,
-    "iot_quality": 81,
-    "dr_score": 76,
-    "governance": 73
+    "cost_index": 124,
+    "k8s_health": 84,
+    "mttr": 42,
+    "iot_quality": 84,
+    "dr_score": 81,
+    "governance": 77
   },
   {
     "week": "W-3",
-    "cost_index": 119,
-    "k8s_health": 80,
-    "mttr": 42,
-    "iot_quality": 83,
-    "dr_score": 78,
-    "governance": 76
+    "cost_index": 124,
+    "k8s_health": 86,
+    "mttr": 38,
+    "iot_quality": 85,
+    "dr_score": 82,
+    "governance": 79
   },
   {
     "week": "W-2",
-    "cost_index": 122,
-    "k8s_health": 83,
-    "mttr": 39,
-    "iot_quality": 84,
-    "dr_score": 80,
-    "governance": 79
+    "cost_index": 124,
+    "k8s_health": 86,
+    "mttr": 38,
+    "iot_quality": 86,
+    "dr_score": 82,
+    "governance": 80
   },
   {
     "week": "W-1",

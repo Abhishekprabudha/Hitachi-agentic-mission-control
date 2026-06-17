@@ -48,7 +48,7 @@ export class Store {
   addTrendPoint(){
     const k=this.state.kpis; const n=this.state.trend.length+1;
     this.state.trend.push({ week:`Live-${n}`, cost_index:Math.max(70, Math.round(126 - k.savings*1.8 + k.cloudWaste*.6)), k8s_health:k.k8sHealth, mttr:k.mttr, iot_quality:k.iotQuality, dr_score:k.drScore, governance:k.governance });
-    this.state.trend = this.state.trend.slice(-12); this.persist();
+    this.state.trend = this.state.trend.slice(-24); this.persist();
   }
   exportState(){ return JSON.stringify({ exported_at:new Date().toISOString(), data:this.data, state:this.state }, null, 2); }
 }
