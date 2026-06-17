@@ -1,0 +1,8 @@
+{
+  "client": "Hitachi GCC Bengaluru",
+  "system": "AIonOS Mission Control",
+  "tagline": "AI-native infrastructure, FinOps, K8s SRE, Industrial AI and governance control plane",
+  "version": "1.0.0",
+  "mode": "static-github-pages",
+  "timezone": "Asia/Kolkata"
+}
