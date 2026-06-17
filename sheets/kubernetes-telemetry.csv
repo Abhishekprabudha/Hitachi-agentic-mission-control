@@ -1,0 +1,5 @@
+cluster,region,health,latency_ms,cpu,memory,restarts,risk
+industrial-ai-prod,Tokyo,78,212,74,82,31,High
+iot-analytics-apac,Singapore,86,148,63,71,12,Medium
+data-platform-blr,Bengaluru,91,96,58,64,7,Low
+edge-inference-eu,Frankfurt,83,171,69,77,19,Medium

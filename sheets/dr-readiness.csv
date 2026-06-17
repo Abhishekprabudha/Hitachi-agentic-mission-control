@@ -1,0 +1,5 @@
+system,rpo_target_min,rpo_actual_min,rto_target_min,rto_actual_min,backup_freshness,score
+Industrial AI Data Lake,15,18,45,51,Watch,78
+Kubernetes Control Plane,5,4,20,18,Healthy,91
+IoT Edge Gateway Config,30,52,60,72,Risk,64
+Vendor Governance Repository,60,35,120,103,Healthy,88

@@ -1,0 +1,9 @@
+app_id,name,business_unit,criticality,cloud_readiness,tech_debt,dependency_risk,security_risk,path,effort,estimated_savings,wave
+APP-001,Industrial Asset Analytics,Industrial AI,High,72,68,81,62,Replatform,M,18%,Wave 1
+APP-002,Factory Quality Data Hub,Manufacturing,High,65,76,70,58,Refactor,L,12%,Wave 1
+APP-003,Railway Reliability Portal,Mobility,Medium,84,45,39,42,Rehost,S,9%,Wave 2
+APP-004,Procurement Vendor Console,Enterprise Transformation,Medium,59,71,66,73,Replatform,M,15%,Wave 2
+APP-005,Energy Edge Telemetry,Energy,High,69,63,84,67,Refactor,L,20%,Wave 1
+APP-006,HR Service Portal,Corporate IT,Low,91,32,28,35,SaaS replace,S,22%,Wave 3
+APP-007,Legacy Batch Billing,Finance,High,42,88,92,79,Strangler refactor,XL,16%,Wave 2
+APP-008,ServiceNow Integration Hub,Infrastructure Ops,Medium,78,54,60,49,Replatform,M,11%,Wave 2

@@ -1,0 +1,5 @@
+pipeline,edge,freshness,quality,latency,drift,model_ready,status
+Factory Vision QA,Bengaluru Plant Edge,91,86,132,12,78,Watch
+Rail Asset Telemetry,Tokyo Mobility Edge,88,79,178,19,71,Risk
+Energy Equipment Sensors,APAC Energy Edge,94,91,104,7,84,Healthy
+Construction Machinery IoT,Singapore Edge Mesh,81,75,211,25,66,Risk

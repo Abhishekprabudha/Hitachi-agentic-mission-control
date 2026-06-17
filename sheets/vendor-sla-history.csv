@@ -1,0 +1,6 @@
+vendor,category,annual_spend_cr,sla,actual,incidents,overlap,risk
+CloudOps Prime,Managed Kubernetes,12.4,99.9,99.71,8,Medium,High
+InfraScale APAC,Cloud MSP,18.9,99.5,99.56,5,High,Medium
+DataStream Works,IoT Data Platform,9.8,99.7,99.31,11,Medium,High
+SecureMesh,Security Monitoring,7.1,99.9,99.93,2,Low,Low
+CloudFin Advisory,FinOps Tooling,5.7,99.0,99.04,3,High,Medium
