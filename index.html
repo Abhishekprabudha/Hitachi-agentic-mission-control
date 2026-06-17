@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="AIonOS Mission Control for Hitachi GCC Bengaluru - static real-time agentic control plane demo" />
+  <title>AIonOS Mission Control | Hitachi GCC</title>
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <div id="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">A</div>
+        <div><span>AIonOS</span><strong>Mission Control</strong></div>
+      </div>
+      <nav>
+        <button class="nav active" data-view="command">Command</button>
+        <button class="nav" data-view="agents">Agents</button>
+        <button class="nav" data-view="scenarios">Scenarios</button>
+        <button class="nav" data-view="governance">Governance</button>
+        <button class="nav" data-view="data">Data Room</button>
+      </nav>
+      <div class="side-card">
+        <span class="eyebrow">Mode</span>
+        <strong>Static GitHub Pages</strong>
+        <p>No backend. Synthetic live telemetry + browser JSON store.</p>
+      </div>
+      <div class="side-card signal">
+        <span class="pulse"></span>
+        <div><strong>Live simulation</strong><small id="live-clock">Starting...</small></div>
+      </div>
+    </aside>
+    <main>
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Hitachi GCC Bengaluru · AI-Native Infrastructure Mission Control</p>
+          <h1>Governed agents that sense, reason, recommend, execute and audit.</h1>
+          <p class="subhead">Real-time synthetic cloud, K8s, IoT, DR, modernization and vendor events — built to demonstrate the AIonOS agentic control plane without any backend.</p>
+        </div>
+        <div class="hero-actions">
+          <button id="run-random" class="primary">Run live incident</button>
+          <button id="export-html" class="secondary">Export HTML evidence</button>
+          <button id="export-json" class="secondary">Export JSON store</button>
+        </div>
+      </header>
+      <section id="view-root"></section>
+    </main>
+  </div>
+  <div id="toast-root"></div>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
