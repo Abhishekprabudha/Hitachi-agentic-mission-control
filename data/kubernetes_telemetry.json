@@ -1,0 +1,42 @@
+[
+  {
+    "cluster": "industrial-ai-prod",
+    "region": "Tokyo",
+    "health": 78,
+    "latency_ms": 212,
+    "cpu": 74,
+    "memory": 82,
+    "restarts": 31,
+    "risk": "High"
+  },
+  {
+    "cluster": "iot-analytics-apac",
+    "region": "Singapore",
+    "health": 86,
+    "latency_ms": 148,
+    "cpu": 63,
+    "memory": 71,
+    "restarts": 12,
+    "risk": "Medium"
+  },
+  {
+    "cluster": "data-platform-blr",
+    "region": "Bengaluru",
+    "health": 91,
+    "latency_ms": 96,
+    "cpu": 58,
+    "memory": 64,
+    "restarts": 7,
+    "risk": "Low"
+  },
+  {
+    "cluster": "edge-inference-eu",
+    "region": "Frankfurt",
+    "health": 83,
+    "latency_ms": 171,
+    "cpu": 69,
+    "memory": 77,
+    "restarts": 19,
+    "risk": "Medium"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "source": "AWS Cost Explorer",
+    "severity": "Medium",
+    "event": "Idle EC2 family detected in AI analytics sandbox",
+    "agent": "finops"
+  },
+  {
+    "source": "Azure Monitor",
+    "severity": "Medium",
+    "event": "Storage tier drift: premium disks below IOPS threshold",
+    "agent": "finops"
+  },
+  {
+    "source": "Kubernetes Events",
+    "severity": "High",
+    "event": "Node pressure warning in industrial-ai-prod",
+    "agent": "k8s"
+  },
+  {
+    "source": "Prometheus",
+    "severity": "High",
+    "event": "P95 latency breach for model inference endpoint",
+    "agent": "k8s"
+  },
+  {
+    "source": "App Inventory",
+    "severity": "Low",
+    "event": "New legacy dependency detected for billing workflow",
+    "agent": "modernization"
+  },
+  {
+    "source": "Kafka Data Quality",
+    "severity": "High",
+    "event": "Sensor freshness below threshold in rail telemetry stream",
+    "agent": "iot"
+  },
+  {
+    "source": "DR Runbook",
+    "severity": "Medium",
+    "event": "Backup job duration exceeds target for IoT edge gateway",
+    "agent": "dr"
+  },
+  {
+    "source": "Vendor SLA Feed",
+    "severity": "Medium",
+    "event": "Monthly SLA evidence missing for DataStream Works",
+    "agent": "vendor"
+  }
+]

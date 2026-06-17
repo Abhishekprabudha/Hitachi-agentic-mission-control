@@ -1,0 +1,89 @@
+[
+  {
+    "id": "cloud-anomaly",
+    "title": "Cloud spend anomaly",
+    "agent": "finops",
+    "severity": "High",
+    "headline": "Industrial AI GPU spend surged 23% above baseline",
+    "description": "FinOps Agent correlates GPU utilization, idle notebooks and missed commitment coverage.",
+    "action": "Approve GPU schedule policy + rightsize 18 idle nodes",
+    "impact": "\u20b93.2M monthly avoidable run-rate detected",
+    "kpi": {
+      "savings": 3.2,
+      "cloudWaste": -3,
+      "governance": 2
+    }
+  },
+  {
+    "id": "k8s-pressure",
+    "title": "Kubernetes outage risk",
+    "agent": "k8s",
+    "severity": "Critical",
+    "headline": "Pod memory spike + node pressure on industrial-ai-prod",
+    "description": "K8s SRE Agent links traffic shift, deployment hash and memory saturation.",
+    "action": "Scale node pool by 2, rollback model service v2.4 if latency persists",
+    "impact": "Expected latency improvement 32%; MTTR avoidance 41 minutes",
+    "kpi": {
+      "k8sHealth": 5,
+      "mttr": -8,
+      "governance": 1
+    }
+  },
+  {
+    "id": "legacy-wave",
+    "title": "Legacy modernization wave",
+    "agent": "modernization",
+    "severity": "Medium",
+    "headline": "Legacy batch billing and IoT gateway apps moved into Wave 1/2 decision pack",
+    "description": "Modernization Agent creates CFO-friendly ranking with risk, effort and cloud impact.",
+    "action": "Generate Japan/APAC approval packet and IaC backlog",
+    "impact": "8 apps scored; 3 candidates ready for architecture workshop",
+    "kpi": {
+      "migrationVelocity": 4,
+      "governance": 3
+    }
+  },
+  {
+    "id": "iot-drift",
+    "title": "IoT data quality degradation",
+    "agent": "iot",
+    "severity": "High",
+    "headline": "Sensor drift detected in construction machinery telemetry",
+    "description": "Industrial AI Platform Agent flags latency + data-quality risk before model degradation.",
+    "action": "Quarantine bad sensor batch, reroute stream, increase feature quality gate",
+    "impact": "Model readiness expected to improve from 66 to 78",
+    "kpi": {
+      "iotQuality": 6,
+      "k8sHealth": 1
+    }
+  },
+  {
+    "id": "dr-gap",
+    "title": "DR readiness failure",
+    "agent": "dr",
+    "severity": "High",
+    "headline": "IoT Edge Gateway Config exceeds RPO/RTO targets",
+    "description": "DR Agent simulates failover and produces evidence gaps for leadership review.",
+    "action": "Refresh backup policy, retest failover, attach audit evidence",
+    "impact": "DR score expected to improve by 9 points",
+    "kpi": {
+      "drScore": 9,
+      "governance": 4
+    }
+  },
+  {
+    "id": "vendor-sla",
+    "title": "Vendor SLA and consolidation risk",
+    "agent": "vendor",
+    "severity": "Medium",
+    "headline": "3 overlapping vendors and 2 SLA breaches identified",
+    "description": "Vendor Governance Agent finds cloud MSP/tooling overlap and contract leakage.",
+    "action": "Create consolidation shortlist and SLA breach evidence pack",
+    "impact": "11% vendor rationalization opportunity identified",
+    "kpi": {
+      "vendorRisk": -8,
+      "savings": 1.1,
+      "governance": 3
+    }
+  }
+]

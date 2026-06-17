@@ -1,0 +1,52 @@
+[
+  {
+    "vendor": "CloudOps Prime",
+    "category": "Managed Kubernetes",
+    "annual_spend_cr": 12.4,
+    "sla": 99.9,
+    "actual": 99.71,
+    "incidents": 8,
+    "overlap": "Medium",
+    "risk": "High"
+  },
+  {
+    "vendor": "InfraScale APAC",
+    "category": "Cloud MSP",
+    "annual_spend_cr": 18.9,
+    "sla": 99.5,
+    "actual": 99.56,
+    "incidents": 5,
+    "overlap": "High",
+    "risk": "Medium"
+  },
+  {
+    "vendor": "DataStream Works",
+    "category": "IoT Data Platform",
+    "annual_spend_cr": 9.8,
+    "sla": 99.7,
+    "actual": 99.31,
+    "incidents": 11,
+    "overlap": "Medium",
+    "risk": "High"
+  },
+  {
+    "vendor": "SecureMesh",
+    "category": "Security Monitoring",
+    "annual_spend_cr": 7.1,
+    "sla": 99.9,
+    "actual": 99.93,
+    "incidents": 2,
+    "overlap": "Low",
+    "risk": "Low"
+  },
+  {
+    "vendor": "CloudFin Advisory",
+    "category": "FinOps Tooling",
+    "annual_spend_cr": 5.7,
+    "sla": 99.0,
+    "actual": 99.04,
+    "incidents": 3,
+    "overlap": "High",
+    "risk": "Medium"
+  }
+]

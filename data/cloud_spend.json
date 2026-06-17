@@ -1,0 +1,50 @@
+[
+  {
+    "month": "Jan",
+    "aws": 32.4,
+    "azure": 25.1,
+    "gcp": 14.2,
+    "private": 9.5,
+    "waste": 7.2
+  },
+  {
+    "month": "Feb",
+    "aws": 34.1,
+    "azure": 25.6,
+    "gcp": 14.9,
+    "private": 9.7,
+    "waste": 7.8
+  },
+  {
+    "month": "Mar",
+    "aws": 35.8,
+    "azure": 26.5,
+    "gcp": 15.4,
+    "private": 10.1,
+    "waste": 8.4
+  },
+  {
+    "month": "Apr",
+    "aws": 37.5,
+    "azure": 27.2,
+    "gcp": 16.1,
+    "private": 10.4,
+    "waste": 9.6
+  },
+  {
+    "month": "May",
+    "aws": 39.2,
+    "azure": 28.6,
+    "gcp": 17.7,
+    "private": 10.8,
+    "waste": 11.2
+  },
+  {
+    "month": "Jun",
+    "aws": 42.8,
+    "azure": 29.1,
+    "gcp": 18.3,
+    "private": 11.0,
+    "waste": 13.7
+  }
+]

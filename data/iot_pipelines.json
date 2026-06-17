@@ -1,0 +1,42 @@
+[
+  {
+    "pipeline": "Factory Vision QA",
+    "edge": "Bengaluru Plant Edge",
+    "freshness": 91,
+    "quality": 86,
+    "latency": 132,
+    "drift": 12,
+    "model_ready": 78,
+    "status": "Watch"
+  },
+  {
+    "pipeline": "Rail Asset Telemetry",
+    "edge": "Tokyo Mobility Edge",
+    "freshness": 88,
+    "quality": 79,
+    "latency": 178,
+    "drift": 19,
+    "model_ready": 71,
+    "status": "Risk"
+  },
+  {
+    "pipeline": "Energy Equipment Sensors",
+    "edge": "APAC Energy Edge",
+    "freshness": 94,
+    "quality": 91,
+    "latency": 104,
+    "drift": 7,
+    "model_ready": 84,
+    "status": "Healthy"
+  },
+  {
+    "pipeline": "Construction Machinery IoT",
+    "edge": "Singapore Edge Mesh",
+    "freshness": 81,
+    "quality": 75,
+    "latency": 211,
+    "drift": 25,
+    "model_ready": 66,
+    "status": "Risk"
+  }
+]

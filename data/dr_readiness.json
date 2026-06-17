@@ -1,0 +1,38 @@
+[
+  {
+    "system": "Industrial AI Data Lake",
+    "rpo_target_min": 15,
+    "rpo_actual_min": 18,
+    "rto_target_min": 45,
+    "rto_actual_min": 51,
+    "backup_freshness": "Watch",
+    "score": 78
+  },
+  {
+    "system": "Kubernetes Control Plane",
+    "rpo_target_min": 5,
+    "rpo_actual_min": 4,
+    "rto_target_min": 20,
+    "rto_actual_min": 18,
+    "backup_freshness": "Healthy",
+    "score": 91
+  },
+  {
+    "system": "IoT Edge Gateway Config",
+    "rpo_target_min": 30,
+    "rpo_actual_min": 52,
+    "rto_target_min": 60,
+    "rto_actual_min": 72,
+    "backup_freshness": "Risk",
+    "score": 64
+  },
+  {
+    "system": "Vendor Governance Repository",
+    "rpo_target_min": 60,
+    "rpo_actual_min": 35,
+    "rto_target_min": 120,
+    "rto_actual_min": 103,
+    "backup_freshness": "Healthy",
+    "score": 88
+  }
+]

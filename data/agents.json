@@ -1,0 +1,98 @@
+[
+  {
+    "id": "finops",
+    "name": "FinOps Agent",
+    "mission": "Stop cloud cost leakage before invoice",
+    "status": "Monitoring",
+    "confidence": 91,
+    "risk": "Medium",
+    "impact": "\u20b918.7M potential annualized savings",
+    "color": "red",
+    "verbs": [
+      "detect",
+      "explain",
+      "optimize",
+      "audit"
+    ]
+  },
+  {
+    "id": "k8s",
+    "name": "K8s SRE Agent",
+    "mission": "Keep industrial AI workloads alive",
+    "status": "Monitoring",
+    "confidence": 88,
+    "risk": "High",
+    "impact": "MTTR reduction and safer releases",
+    "color": "black",
+    "verbs": [
+      "predict",
+      "heal",
+      "scale",
+      "learn"
+    ]
+  },
+  {
+    "id": "modernization",
+    "name": "Modernization Agent",
+    "mission": "Convert legacy due diligence into migration waves",
+    "status": "Ready",
+    "confidence": 86,
+    "risk": "Medium",
+    "impact": "Ranked backlog for Japan/APAC approvals",
+    "color": "red",
+    "verbs": [
+      "discover",
+      "assess",
+      "prioritize",
+      "generate"
+    ]
+  },
+  {
+    "id": "iot",
+    "name": "Industrial AI Platform Agent",
+    "mission": "Scale IoT data into reliable AI decisions",
+    "status": "Monitoring",
+    "confidence": 84,
+    "risk": "Medium",
+    "impact": "Data quality, latency and model readiness",
+    "color": "red",
+    "verbs": [
+      "ingest",
+      "validate",
+      "route",
+      "scale"
+    ]
+  },
+  {
+    "id": "dr",
+    "name": "DR Readiness Agent",
+    "mission": "Prove resilience before failure",
+    "status": "Ready",
+    "confidence": 82,
+    "risk": "Medium",
+    "impact": "RPO/RTO evidence and failover readiness",
+    "color": "black",
+    "verbs": [
+      "simulate",
+      "test",
+      "govern",
+      "evidence"
+    ]
+  },
+  {
+    "id": "vendor",
+    "name": "Vendor Governance Agent",
+    "mission": "Rationalize vendors and SLA risk",
+    "status": "Watching",
+    "confidence": 79,
+    "risk": "Medium",
+    "impact": "Contract overlap and SLA breach evidence",
+    "color": "black",
+    "verbs": [
+      "compare",
+      "detect",
+      "negotiate",
+      "track"
+    ]
+  }
+]

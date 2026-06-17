@@ -1,0 +1,32 @@
+[
+  {
+    "id": "POL-001",
+    "name": "Human approval required for infrastructure changes",
+    "scope": "All agents",
+    "control": "No write action executes without named approver"
+  },
+  {
+    "id": "POL-002",
+    "name": "Japan/APAC approval packet for modernization waves",
+    "scope": "Modernization",
+    "control": "Decision pack must include cost, risk, dependency and rollback"
+  },
+  {
+    "id": "POL-003",
+    "name": "Sovereign data boundary guardrail",
+    "scope": "IoT, AI, cloud",
+    "control": "OT and regulated telemetry cannot cross configured boundary"
+  },
+  {
+    "id": "POL-004",
+    "name": "K8s production rollback guardrail",
+    "scope": "K8s SRE",
+    "control": "Rollback allowed only if error budget burn exceeds threshold"
+  },
+  {
+    "id": "POL-005",
+    "name": "DR evidence retention",
+    "scope": "DR",
+    "control": "Every DR simulation keeps RPO/RTO evidence and action log"
+  }
+]
